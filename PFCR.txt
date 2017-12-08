@@ -1,3 +1,13 @@
+## Antdroid/Minotauri NFL Roster for 2017-18 Season
+## version 1.4 (09-13-2017)
+##Changelog
+##v1.0 Initial Release
+##v1.11 Fixed extra comma bug affecting iOS and players with initials for first name
+##v1.20: Randomized Potential based on Age
+##v1.30 Fixed Player Salaries; New Coverage Formula; Using PFC-Converter v1.2
+##v1.40 Normalizing Salaries to avoid salary cap issues
+## http://www.AntDroid.net
+######################################################################  RAVENS
 Baltimore Ravens,BAL
 QB,Joe Flacco,32,2008,80,88,95,97,79,59,19,2
 QB,Ryan Mallett,29,2011,72,62,94,94,74,42,1.8,1
